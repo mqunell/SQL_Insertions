@@ -27,3 +27,13 @@ insert into Series values (
 	"DCEU",
 	5
 );
+
+insert into Series values (
+	"Matrix",
+	3
+);
+
+insert into Series values (
+	"Bourne",
+	5
+);

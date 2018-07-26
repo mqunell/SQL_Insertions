@@ -26,9 +26,9 @@ def write_sql(input_list, file_loc):
         output_file.writelines(output[:-2])
 
 
-# Generate SQL files
+# Data to format
 
-music_artists = [
+music_artist = [
     ("Architects", 2004, "null"),
     ("As I Lay Dying", 2000, "null"),
     ("Asking Alexandria", 2006, "null"),
@@ -73,9 +73,30 @@ music_artists = [
     ("The Word Alive", 2008, "null")
 ]
 
-movie_series = [("The Dark Knight", 3), ("Deadpool", 2), ("Anchorman", 2), ("MCU", 20), ("Spider-Man", 3), ("DCEU", 5)]
+music_album = [
+    ("Architects", "All Our Gods Have Abandoned Us", 11, "46:11", "null", 2016),
+    ("As I Lay Dying", "Awakened", 13, "42:46", "null", 2012),
+    ("Asking Alexandria", "Reckless & Relentless", 12, "42:25", "null", 2011)
+]
 
-movie_movies = [
+music_song = [
+    ("Architects", "All Our Gods Have Abandoned Us", "Nihilist", 1, "2:51", "null"),
+    ("As I Lay Dying", "Awakened", "A Greater Foundation", 2, "3:46", "null"),
+    ("Asking Alexandria", "Reckless & Relentless", "Breathless", 8, "4:10", "null")
+]
+
+movies_series = [
+    ("The Dark Knight", 3),
+    ("Deadpool", 2),
+    ("Anchorman", 2),
+    ("MCU", 20),
+    ("Spider-Man", 3),
+    ("DCEU", 5),
+    ("Matrix", 3),
+    ("Bourne", 5)
+]
+
+movies_movie = [
     ("Batman Begins", 2005, 3, "2:20", "Action/Adventure", 70, "Christian Bale/Michael Caine/Ken Watanabe", "The Dark Knight", 1, "streaming"),
     ("The Dark Knight", 2008, 3, "2:32", "Action/Crime/Drama", 82, "Christian Bale/Heath Ledger/Aaron Eckhart", "The Dark Knight", 2, "streaming"),
     ("The Dark Knight Rises", 2012, 3, "2:45", "Action/Thriller", 78, "Christian Bale/Tom Hardy/Anne Hathaway","The Dark Knight", 3, "streaming"),
@@ -110,10 +131,11 @@ movie_movies = [
     ("Big Hero 6", 2014, 2, "1:42", "Animation/Action/Adventure", 74, "Ryan Potter/Scott Adsit/Jamie Chung", "null", "null", "hdd/streaming")
 ]
 
-write_sql(music_artists, "MusicDB/Artist")
-write_sql(movie_series, "MoviesDB/Series")
-write_sql(movie_movies, "MoviesDB/Movie")
 
+# Generate SQL files
 
-# todo: standardize the functions more; almost everything is identical after the data lists
-# todo: add music_album and music_song
+write_sql(music_artist, "MusicDB/Artist")
+write_sql(music_album, "MusicDB/Album")
+write_sql(music_song, "MusicDB/Song")
+write_sql(movies_series, "MoviesDB/Series")
+write_sql(movies_movie, "MoviesDB/Movie")
