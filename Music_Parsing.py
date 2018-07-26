@@ -1,7 +1,7 @@
 import os
 import eyed3
 
-root_dir = "/media/matt/Storage/Music/A Day to Remember"
+root_dir = "/media/matt/Storage/MusicDB/A Day to Remember"
 
 '''
 for dirName, subdirList, fileList in os.walk(root_dir):
