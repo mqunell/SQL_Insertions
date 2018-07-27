@@ -110,7 +110,7 @@ movies_movie = [
     ("Spider-Man: Homecoming", 2017, 3, "2:13", "Action/Adventure/Sci-Fi", 73, "Tom Holland/Michael Keaton/Robert Downey Jr.", "MCU", 16, "dvd/bluray/hdd/streaming"),
     ("Swordfish", 2001, 4, "1:39", "Action/Crime/Thriller", 32, "John Travolta/Hugh Jackman/Halle Berry", "null", "null", "bluray"),
     ("The Benchwarmers", 2006, 3, "1:20", "Comedy/Sport", 25, "David Spade/Jon Heder/Rob Schneider", "null", "null", "dvd"),
-    ("Disturbed: M.O.L.", 2002, "null", "2:30", "MusicDB", "null", "Disturbed", "null", "null", "dvd"),
+    ("Disturbed: M.O.L.", 2002, "null", "2:30", "Music", "null", "Disturbed", "null", "null", "dvd"),
     ("The Bourne Ultimatum", 2007, 3, "1:55", "Action/Mystery/Thriller", 85, "Matt Damon/Edgar Ramirez/Joan Allen", "Bourne", 3, "dvd"),
     ("The Bourne Legacy", 2012, 3, "2:15", "Action/Adventure/Thriller", 61, "Jeremy Renner/Rachel Weisz/Edward Norton", "Bourne", 4, "dvd"),
     ("Inception", 2010, 3, "2:28", "Action/Adventure/Sci-Fi", 74, "Leonardo DiCaprio/Joseph Gordon-Levitt/Ellen Page", "null", "null", "dvd"),
