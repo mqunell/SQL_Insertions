@@ -1,0 +1,42 @@
+"Architects", 2004, null
+"As I Lay Dying", 2000, null
+"Asking Alexandria", 2006, null
+"Attila", 2005, null
+"Avenged Sevenfold", 1999, null
+"Blessthefall", 2004, null
+"Born of Osiris", 2003, null
+"Breaking Benjamin", 1999, null
+"Bring Me The Horizon", 2004, null
+"Bullet For My Valentine", 1998, null
+"Capture", 2010, null
+"Chelsea Grin", 2007, null
+"Crown the Empire", 2010, null
+"A Day to Remember", 2003, null
+"Disturbed", 1994, null
+"Five Finger Death Punch", 2005, null
+"For All Those Sleeping", 2007, 2014
+"For Today", 2005, 2016
+"I See Stars", 2006, null
+"Issues", 2012, null
+"Killswitch Engage", 1999, null
+"Linkin Park", 1996, null
+"The Lonely Island", 2001, null
+"Make Them Suffer", 2008, null
+"Memphis May Fire", 2006, null
+"Miss May I", 2007, null
+"Nickelback", 1995, null
+"Of Mice & Men", 2009, null
+"Our Last Night", 2004, null
+"Papa Roach", 1993, null
+"Parkway Drive", 2003, null
+"Rise Against", 1999, null
+"Shinedown", 2001, null
+"Skillet", 1996, null
+"A Skylit Drive", 2005, null
+"Sleeping with Sirens", 2009, null
+"Slipknot", 1995, null
+"System of a Down", 1994, null
+"Three Days Grace", 1997, null
+"Upon a Burning Body", 2005, null
+"We Came as Romans", 2005, null
+"The Word Alive", 2008, null
