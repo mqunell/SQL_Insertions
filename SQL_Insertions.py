@@ -16,26 +16,16 @@ def write_sql(input_list, file_loc):
             output_file.writelines(output[:-2])
 
 
-# Read the data into lists of strings where each string is a line (besides '\n') of the text file
-with open("input/music_artists.txt", "r") as input_file:
-    music_artists = input_file.read().split("\n")
+# Names of files and output locations
+data = [("music_artists", "MusicDB/Artist"),
+        ("music_albums", "MusicDB/Album"),
+        ("music_songs", "MusicDB/Song"),
+        ("movies_series", "MoviesDB/Series"),
+        ("movies_movies", "MoviesDB/Movie")
+]
 
-with open("input/music_albums.txt", "r") as input_file:
-    music_albums = input_file.read().split("\n")
-
-with open("input/music_songs.txt", "r") as input_file:
-    music_songs = input_file.read().split("\n")
-
-with open("input/movies_series.txt", "r") as input_file:
-    movies_series = input_file.read().split("\n")
-
-with open("input/movies_movies.txt", "r") as input_file:
-    movies_movies = input_file.read().split("\n")
-
-
-# Generate SQL files
-write_sql(music_artists, "MusicDB/Artist")
-write_sql(music_albums, "MusicDB/Album")
-write_sql(music_songs, "MusicDB/Song")
-write_sql(movies_series, "MoviesDB/Series")
-write_sql(movies_movies, "MoviesDB/Movie")
+# Loops through the data pairs, opens each input file, reads each file into a list of strings where each string is a
+# line (besides '\n') of the text file, and passes the list and output location to write_sql()
+for pair in data:
+    with open("input/%s.txt" % pair[0], "r") as input_file:
+        write_sql(input_file.read().split("\n"), pair[1])
