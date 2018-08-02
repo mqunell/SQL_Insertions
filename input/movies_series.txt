@@ -6,3 +6,8 @@
 "DCEU", 5
 "Matrix", 3
 "Bourne", 5
+"Harry Potter", 8
+"Maze Runner", 3
+"Alien", 6
+"Star Wars", 10
+"Transformers", 5

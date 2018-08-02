@@ -37,3 +37,28 @@ insert into Series values (
 	"Bourne",
 	5
 );
+
+insert into Series values (
+	"Harry Potter",
+	8
+);
+
+insert into Series values (
+	"Maze Runner",
+	3
+);
+
+insert into Series values (
+	"Alien",
+	6
+);
+
+insert into Series values (
+	"Star Wars",
+	10
+);
+
+insert into Series values (
+	"Transformers",
+	5
+);

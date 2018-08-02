@@ -8,7 +8,7 @@ insert into Movie values (
 	"Christian Bale/Michael Caine/Ken Watanabe",
 	"The Dark Knight",
 	1,
-	"streaming"
+	"34"
 );
 
 insert into Movie values (
@@ -21,7 +21,7 @@ insert into Movie values (
 	"Christian Bale/Heath Ledger/Aaron Eckhart",
 	"The Dark Knight",
 	2,
-	"streaming"
+	"34"
 );
 
 insert into Movie values (
@@ -34,7 +34,7 @@ insert into Movie values (
 	"Christian Bale/Tom Hardy/Anne Hathaway",
 	"The Dark Knight",
 	3,
-	"streaming"
+	"34"
 );
 
 insert into Movie values (
@@ -47,7 +47,7 @@ insert into Movie values (
 	"Ryan Reynolds/Morena Baccarin/T.J. Miller",
 	"Deadpool",
 	1,
-	"dvd/bluray/hdd/streaming"
+	"1234"
 );
 
 insert into Movie values (
@@ -60,7 +60,7 @@ insert into Movie values (
 	"Will Ferrell/Christina Applegate/Paul Rudd",
 	"Anchorman",
 	2,
-	"dvd/bluray/hdd"
+	"123"
 );
 
 insert into Movie values (
@@ -73,7 +73,7 @@ insert into Movie values (
 	"Robert Downey Jr./Chris Evans/Mark Ruffalo",
 	"MCU",
 	11,
-	"bluray"
+	"2"
 );
 
 insert into Movie values (
@@ -86,7 +86,7 @@ insert into Movie values (
 	"Chris Evans/Robert Downey Jr./Scarlett Johansson",
 	"MCU",
 	13,
-	"bluray"
+	"2"
 );
 
 insert into Movie values (
@@ -99,7 +99,7 @@ insert into Movie values (
 	"Will Ferrell/Zach Galifianakis/Jason Sudeikis",
 	null,
 	null,
-	"bluray"
+	"2"
 );
 
 insert into Movie values (
@@ -112,7 +112,7 @@ insert into Movie values (
 	"Robert Downey Jr./Zach Galifianakis/Michelle Monaghan",
 	null,
 	null,
-	"bluray"
+	"2"
 );
 
 insert into Movie values (
@@ -125,7 +125,7 @@ insert into Movie values (
 	"Tobey Maguire/Kirsten Dunst/Topher Grace",
 	"Spider-Man",
 	3,
-	"bluray"
+	"2"
 );
 
 insert into Movie values (
@@ -138,7 +138,7 @@ insert into Movie values (
 	"Tom Holland/Michael Keaton/Robert Downey Jr.",
 	"MCU",
 	16,
-	"dvd/bluray/hdd/streaming"
+	"1234"
 );
 
 insert into Movie values (
@@ -151,7 +151,7 @@ insert into Movie values (
 	"John Travolta/Hugh Jackman/Halle Berry",
 	null,
 	null,
-	"bluray"
+	"2"
 );
 
 insert into Movie values (
@@ -164,7 +164,7 @@ insert into Movie values (
 	"David Spade/Jon Heder/Rob Schneider",
 	null,
 	null,
-	"dvd"
+	"1"
 );
 
 insert into Movie values (
@@ -177,7 +177,7 @@ insert into Movie values (
 	"Disturbed",
 	null,
 	null,
-	"dvd"
+	"1"
 );
 
 insert into Movie values (
@@ -190,7 +190,7 @@ insert into Movie values (
 	"Matt Damon/Edgar Ramirez/Joan Allen",
 	"Bourne",
 	3,
-	"dvd"
+	"1"
 );
 
 insert into Movie values (
@@ -203,7 +203,7 @@ insert into Movie values (
 	"Jeremy Renner/Rachel Weisz/Edward Norton",
 	"Bourne",
 	4,
-	"dvd"
+	"1"
 );
 
 insert into Movie values (
@@ -216,7 +216,7 @@ insert into Movie values (
 	"Leonardo DiCaprio/Joseph Gordon-Levitt/Ellen Page",
 	null,
 	null,
-	"dvd"
+	"13"
 );
 
 insert into Movie values (
@@ -229,7 +229,7 @@ insert into Movie values (
 	"Will Ferrell/Danny McBride/Anna Friel",
 	null,
 	null,
-	"dvd"
+	"1"
 );
 
 insert into Movie values (
@@ -242,7 +242,7 @@ insert into Movie values (
 	"Keanu Reeves/Laurence Fishburne/Carrie-Anne Moss",
 	"Matrix",
 	1,
-	"dvd"
+	"1"
 );
 
 insert into Movie values (
@@ -255,7 +255,7 @@ insert into Movie values (
 	"Keanu Reeves/Laurence Fishburne/Carrie-Anne Moss",
 	"Matrix",
 	2,
-	"dvd"
+	"1"
 );
 
 insert into Movie values (
@@ -268,7 +268,7 @@ insert into Movie values (
 	"Keanu Reeves/Laurence Fishburne/Carrie-Anne Moss",
 	"Matrix",
 	3,
-	"dvd"
+	"1"
 );
 
 insert into Movie values (
@@ -281,7 +281,7 @@ insert into Movie values (
 	"Guy Pearce/Carrie-Anne Moss/Joe Pantoliano",
 	null,
 	null,
-	"dvd"
+	"1"
 );
 
 insert into Movie values (
@@ -294,7 +294,7 @@ insert into Movie values (
 	"Jon Heder/Efren Ramirez/Jon Gries",
 	null,
 	null,
-	"dvd"
+	"1"
 );
 
 insert into Movie values (
@@ -307,7 +307,7 @@ insert into Movie values (
 	"Will Ferrell/Woody Harrelson/Andre Benjamin",
 	null,
 	null,
-	"dvd"
+	"1"
 );
 
 insert into Movie values (
@@ -320,7 +320,7 @@ insert into Movie values (
 	"Will Ferrell/Jon Heder/Amy Poehler",
 	null,
 	null,
-	"dvd"
+	"1"
 );
 
 insert into Movie values (
@@ -333,7 +333,7 @@ insert into Movie values (
 	"Will Ferrell/John C. Reilly/Mary Steenburgen",
 	null,
 	null,
-	"dvd"
+	"13"
 );
 
 insert into Movie values (
@@ -346,7 +346,7 @@ insert into Movie values (
 	"Will Ferrell/Mark Wahlberg/Derek Jetter",
 	null,
 	null,
-	"dvd"
+	"1"
 );
 
 insert into Movie values (
@@ -359,7 +359,7 @@ insert into Movie values (
 	"Will Ferrell/John C. Reilly/Sacha Baron Cohen",
 	null,
 	null,
-	"dvd"
+	"1"
 );
 
 insert into Movie values (
@@ -372,7 +372,7 @@ insert into Movie values (
 	"Jonah Hill/Channing Tatum/Ice Cube",
 	null,
 	null,
-	"hdd/streaming"
+	"34"
 );
 
 insert into Movie values (
@@ -385,7 +385,7 @@ insert into Movie values (
 	"Channing Tatum/Jonah Hill/Ice Cube",
 	null,
 	null,
-	"hdd/streaming"
+	"34"
 );
 
 insert into Movie values (
@@ -398,7 +398,7 @@ insert into Movie values (
 	"Ben Affleck/Henry Cavill/Amy Adams",
 	"DCEU",
 	2,
-	"hdd/streaming"
+	"34"
 );
 
 insert into Movie values (
@@ -411,5 +411,512 @@ insert into Movie values (
 	"Ryan Potter/Scott Adsit/Jamie Chung",
 	null,
 	null,
-	"hdd/streaming"
+	"34"
+);
+
+insert into Movie values (
+	"Central Intelligence",
+	2016,
+	5,
+	"1:47",
+	"Action/Comedy/Crime",
+	52,
+	"Dwayne Johnson/Kevin Hart/Danielle Nicolet",
+	null,
+	null,
+	"4"
+);
+
+insert into Movie values (
+	"Chappie",
+	2015,
+	4,
+	"2:00",
+	"Action/Crime/Drama",
+	41,
+	"Sharlto Copley/Dev Patel/Hugh Jackman",
+	null,
+	null,
+	"34"
+);
+
+insert into Movie values (
+	"District 9",
+	2009,
+	4,
+	"1:52",
+	"Sci-Fi/Thriller",
+	81,
+	"Sharlto Copley/David James/Jason Cope",
+	null,
+	null,
+	"34"
+);
+
+insert into Movie values (
+	"Elysium",
+	2013,
+	4,
+	"1:49",
+	"Action/Drama/Sci-Fi",
+	61,
+	"Matt Damon/Jodie Foster/Sharlto Copley",
+	null,
+	null,
+	"34"
+);
+
+insert into Movie values (
+	"Get Out",
+	2017,
+	4,
+	"1:44",
+	"Horror/Mystery/Thriller",
+	84,
+	"Daniel Kaluuya/Allison Williams/Bradley Whitford",
+	null,
+	null,
+	"34"
+);
+
+insert into Movie values (
+	"Ghostbusters: Answer the Call",
+	2016,
+	3,
+	"1:56",
+	"Action/Comedy/Fantasy",
+	60,
+	"Melissa McCarthy/Kristen Wiig/Kate McKinnon",
+	null,
+	null,
+	"4"
+);
+
+insert into Movie values (
+	"Harry Potter and the Deathly Hallows: Part 2",
+	2011,
+	3,
+	"2:10",
+	"Adventure/Drama/Fantasy",
+	87,
+	"Daniel Radcliffe/Emma Watson/Rupert Grint",
+	"Harry Potter",
+	8,
+	"34"
+);
+
+insert into Movie values (
+	"Ice Age",
+	2002,
+	2,
+	"1:21",
+	"Animation/Adventure/Comedy",
+	60,
+	"Denis Leary/John Leguizamo/Ray Romano",
+	null,
+	null,
+	"34"
+);
+
+insert into Movie values (
+	"The Incredible Hulk",
+	2008,
+	3,
+	"1:52",
+	"Action/Adventure/Sci-Fi",
+	61,
+	"Edward Norton/Liv Tyler/Tim Roth",
+	"MCU",
+	2,
+	"4"
+);
+
+insert into Movie values (
+	"Independence Day",
+	1996,
+	3,
+	"2:25",
+	"Action/Adventure/Sci-Fi",
+	59,
+	"Will Smith/Bill Pullman/Jeff Goldblum",
+	null,
+	null,
+	"34"
+);
+
+insert into Movie values (
+	"The Interview",
+	2014,
+	4,
+	"1:52",
+	"Comedy",
+	52,
+	"James Franco/Seth Rogen/Randall Park",
+	null,
+	null,
+	"4"
+);
+
+insert into Movie values (
+	"Jason Bourne",
+	2016,
+	3,
+	"2:03",
+	"Action/Thriller",
+	58,
+	"Matt Damon/Tommy Lee Jones/Alicia Vikander",
+	"Bourne",
+	5,
+	"34"
+);
+
+insert into Movie values (
+	"The Lego Movie",
+	2014,
+	2,
+	"1:40",
+	"Animation/Action/Adventure",
+	83,
+	"Chris Pratt/Will Ferrell/Elizabeth Banks",
+	null,
+	null,
+	"4"
+);
+
+insert into Movie values (
+	"Life",
+	2017,
+	4,
+	"1:44",
+	"Horror/Sci-Fi/Thriller",
+	54,
+	"Jake Gyllenhaal/Rebecca Ferguson/Ryan Reynolds",
+	null,
+	null,
+	"34"
+);
+
+insert into Movie values (
+	"Maze Runner: The Death Cure",
+	2018,
+	3,
+	"2:21",
+	"Action/Sci-Fi/Thriller",
+	51,
+	"Dylan O'Brien/Ki Hong Lee/Kaya Scodelario",
+	"Maze Runner",
+	3,
+	"4"
+);
+
+insert into Movie values (
+	"Oblivion",
+	2013,
+	3,
+	"2:04",
+	"Action/Adventure/Mystery",
+	54,
+	"Tom Cruise/Morgan Freeman/Andrea Riseborough",
+	null,
+	null,
+	"34"
+);
+
+insert into Movie values (
+	"Popstar: Never Stop Never Stopping",
+	2016,
+	4,
+	"1:27",
+	"Comedy/Music",
+	68,
+	"Andy Samberg/Jorma Taccone/Akiva Schaffer",
+	null,
+	null,
+	"34"
+);
+
+insert into Movie values (
+	"Prometheus",
+	2012,
+	4,
+	"2:04",
+	"Adventure/Mystery/Sci-Fi",
+	64,
+	"Noomi Rapace/Logan Marshall-Green/Michael Fassbender",
+	"Alien",
+	5,
+	"34"
+);
+
+insert into Movie values (
+	"The Revenant",
+	2015,
+	4,
+	"2:36",
+	"Action/Adventure/Drama",
+	76,
+	"Leonardo DiCaprio/Tom Hardy/Will Poulter",
+	null,
+	null,
+	"34"
+);
+
+insert into Movie values (
+	"Star Wars: The Last Jedi",
+	2017,
+	3,
+	"2:32",
+	"Action/Adventure/Fantasy",
+	85,
+	"Daisy Ridley/John Boyega/Mark Hamill",
+	"Star Wars",
+	8,
+	"4"
+);
+
+insert into Movie values (
+	"X-Men",
+	2000,
+	3,
+	"1:44",
+	"Action/Adventure/Sci-Fi",
+	64,
+	"Patrick Stewart/Hugh Jackman/Ian McKellen",
+	"Star Wars",
+	8,
+	"4"
+);
+
+insert into Movie values (
+	"Transformers",
+	2007,
+	3,
+	"2:24",
+	"Action/Adventure/Sci-Fi",
+	61,
+	"Shia LaBeouf/Megan Fox/Josh Duhamel",
+	"Transformers",
+	1,
+	"3"
+);
+
+insert into Movie values (
+	"Transformers: Revenge of the Fallen",
+	2009,
+	3,
+	"2:30",
+	"Action/Adventure/Sci-Fi",
+	35,
+	"Shia LaBeouf/Megan Fox/Josh Duhamel",
+	"Transformers",
+	2,
+	"3"
+);
+
+insert into Movie values (
+	"Transformers: Dark of the Moon",
+	2011,
+	3,
+	"2:34",
+	"Action/Adventure/Sci-Fi",
+	42,
+	"Shia LaBeouf/Rosie Huntington-Whiteley/Tyrese Gibson",
+	"Transformers",
+	3,
+	"3"
+);
+
+insert into Movie values (
+	"Transformers: Age of Extinction",
+	2014,
+	3,
+	"2:45",
+	"Action/Adventure/Sci-Fi",
+	32,
+	"Mark Wahlberg/Nicola Peltz/Jack Reynor",
+	"Transformers",
+	4,
+	"3"
+);
+
+insert into Movie values (
+	"Transformers: The Last Knight",
+	2017,
+	3,
+	"2:34",
+	"Action/Adventure/Sci-Fi",
+	27,
+	"Mark Wahlberg/Anthony Hopkins/Josh Duhamel",
+	"Transformers",
+	5,
+	"3"
+);
+
+insert into Movie values (
+	"2012",
+	2009,
+	3,
+	"2:38",
+	"Action/Adventure/Sci-Fi",
+	49,
+	"John Cusack/Thandie Newton/Chiwetel Ejiofor",
+	null,
+	null,
+	"3"
+);
+
+insert into Movie values (
+	"Chronicle",
+	2012,
+	3,
+	"1:24",
+	"Drama/Sci-Fi/Thriller",
+	69,
+	"Dane DeHaan/Alex Russell/Michael B. Jordan",
+	null,
+	null,
+	"3"
+);
+
+insert into Movie values (
+	"Decade of Disturbed",
+	2010,
+	null,
+	"1:25",
+	"Documentary/Music",
+	null,
+	"Lou Brutus/Disturbed",
+	null,
+	null,
+	"3"
+);
+
+insert into Movie values (
+	"Harry Potter and the Deathly Hallows: Part 1",
+	2010,
+	3,
+	"2:26",
+	"Adventure/Family/Fantasy",
+	65,
+	"Daniel Radcliffe/Emma Watson/Rupert Grint",
+	"Harry Potter",
+	7,
+	"3"
+);
+
+insert into Movie values (
+	"Harry Potter and the Order of the Phoenix",
+	2007,
+	3,
+	"2:18",
+	"Adventure/Family/Fantasy",
+	71,
+	"Daniel Radcliffe/Emma Watson/Rupert Grint",
+	"Harry Potter",
+	4,
+	"3"
+);
+
+insert into Movie values (
+	"I Am Number Four",
+	2011,
+	3,
+	"1:51",
+	"Action/Adventure/Sci-Fi",
+	36,
+	"Alex Pettyfer/Timothy Olyphant/Dianna Agron",
+	null,
+	null,
+	"3"
+);
+
+insert into Movie values (
+	"Iron Man",
+	2008,
+	3,
+	"2:06",
+	"Action/Adventure/Sci-Fi",
+	79,
+	"Robert Downey Jr./Gwyneth Paltrow/Terrence Howard",
+	"MCU",
+	1,
+	"3"
+);
+
+insert into Movie values (
+	"Law Abiding Citizen",
+	2009,
+	4,
+	"1:49",
+	"Crime/Drama/Thriller",
+	34,
+	"Gerard Butler/Jamie Foxx/Leslie Bibb",
+	null,
+	null,
+	"3"
+);
+
+insert into Movie values (
+	"Limitless",
+	2011,
+	3,
+	"1:45",
+	"Mystery/Sci-Fi/Thriller",
+	59,
+	"Bradley Cooper/Anna Friel/Abbie Cornish",
+	null,
+	null,
+	"3"
+);
+
+insert into Movie values (
+	"Meet the Spartans",
+	2008,
+	3,
+	"1:26",
+	"Comedy",
+	9,
+	"Sean Maguire/Kevin Sorbo/Carmen Electra",
+	null,
+	null,
+	"3"
+);
+
+insert into Movie values (
+	"Salt",
+	2010,
+	3,
+	"1:40",
+	"Action/Crime/Mystery",
+	65,
+	"Angelina Jolie/Liev Schreiber/Chiwetel Ejiofor",
+	null,
+	null,
+	"3"
+);
+
+insert into Movie values (
+	"The Day the Earth Stood Still",
+	2008,
+	3,
+	"1:44",
+	"Drama/Sci-Fi/Thriller",
+	40,
+	"Keanu Reeves/Jennifer Connelly/Kathy Bates",
+	null,
+	null,
+	"3"
+);
+
+insert into Movie values (
+	"A Quiet Place",
+	2018,
+	3,
+	"1:30",
+	"Drama/Horror/Sci-Fi",
+	82,
+	"Emily Blunt/John Krasinski/Millicent Simmonds",
+	null,
+	null,
+	"3"
 );
