@@ -62,3 +62,13 @@ insert into Series values (
 	"Transformers",
 	5
 );
+
+insert into Series values (
+	"The Strangers",
+	2
+);
+
+insert into Series values (
+	"Jump Street",
+	2
+);

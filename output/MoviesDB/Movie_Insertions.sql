@@ -370,8 +370,8 @@ insert into Movie values (
 	"Action/Comedy/Crime",
 	69,
 	"Jonah Hill/Channing Tatum/Ice Cube",
-	null,
-	null,
+	"Jump Street",
+	1,
 	"34"
 );
 
@@ -383,8 +383,8 @@ insert into Movie values (
 	"Action/Comedy/Crime",
 	71,
 	"Channing Tatum/Jonah Hill/Ice Cube",
-	null,
-	null,
+	"Jump Street",
+	2,
 	"34"
 );
 
@@ -919,4 +919,30 @@ insert into Movie values (
 	null,
 	null,
 	"3"
+);
+
+insert into Movie values (
+	"The Strangers: Prey at Night",
+	2018,
+	4,
+	"1:25",
+	"Horror",
+	48,
+	"Christina Hendricks/Martin Henderson/Bailee Madison",
+	"The Strangers",
+	2,
+	"4"
+);
+
+insert into Movie values (
+	"Dodgeball: A True Underdog Story",
+	2004,
+	3,
+	"1:32",
+	"Comedy/Sport",
+	55,
+	"Ben Stiller/Christine Taylor/Vince Vaughn",
+	null,
+	null,
+	"4"
 );

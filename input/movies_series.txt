@@ -11,3 +11,5 @@
 "Alien", 6
 "Star Wars", 10
 "Transformers", 5
+"The Strangers", 2
+"Jump Street", 2
